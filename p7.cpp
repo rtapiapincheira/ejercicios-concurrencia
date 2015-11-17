@@ -7,7 +7,7 @@
  * P7: implemente un monitor (c++), que permite agregar/quitar elementos de una cola.
  *
  * Compilar con:
- *      g++ -o p7 p7.cpp -lphtread
+ *     g++ -o p7 -lpthread p7.cpp
  */
 
 #define MAX_ELEMENTOS 100
